@@ -252,7 +252,7 @@ function CardBenefitsContent() {
   };
 
   return (
-    <div className="min-h-[1000px] flex flex-col bg-gray-50">
+    <div className="min-h-[1000px] flex flex-col">
       {/* 상단 네비게이션 바 */}
       <HeaderNavBar />
 
@@ -268,7 +268,7 @@ function CardBenefitsContent() {
           <Tabs
             value={activeCategory}
             onValueChange={handleCategoryChange}
-            className="w-full mb-4 bg-white"
+            className="w-full mb-4 bg-gray-100 rounded-lg"
           >
             <TabsList className="grid grid-cols-5 w-full h-full p-0">
               {categories.map((category) => (
