@@ -175,12 +175,12 @@ export default function DashboardPage() {
   }, []);
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen flex flex-col">
       {/* 헤더 내비게이션 바 */}
       <HeaderNavBar />
 
       {/* 메인 콘텐츠 */}
-      <main className="container mx-auto px-4 py-16 space-y-6">
+      <main className="container mx-auto px-4 py-16 space-y-6 flex-1">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           {/* 혜택별 최고의 카드 */}
           <Card>

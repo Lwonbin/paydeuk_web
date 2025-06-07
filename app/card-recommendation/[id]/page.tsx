@@ -134,12 +134,12 @@ export default function CardDetailPage({
   }
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen flex flex-col">
       {/* 상단 네비게이션 바 */}
       <HeaderNavBar />
 
       {/* 메인 콘텐츠 */}
-      <main className="container mx-auto px-4 py-6 mb-24">
+      <main className="flex-1 container mx-auto px-4 py-6">
         <h1 className="text-2xl font-bold mb-6">카드 상세 정보</h1>
 
         <div className="bg-white rounded-lg shadow-sm p-6 mb-6">
