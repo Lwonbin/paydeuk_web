@@ -34,7 +34,7 @@ JWT 기반 로그인 화면입니다.
 ---
 
 ### 메인 페이지  
-사용자의 카드 추천 및 결제 내역 접근이 가능한 메인 페이지입니다.  
+사용자의 카드 및 결제 내역 접근이 가능한 메인 페이지입니다.  
 ![메인 페이지](https://github.com/user-attachments/assets/2086a7de-e272-4631-b6bc-b7727d3aaa7e)
 
 ---
@@ -50,3 +50,9 @@ JWT 기반 로그인 화면입니다.
 ![관리자 페이지](https://github.com/user-attachments/assets/b8558302-ebec-4db7-a761-d8f36bbb6336)
 
 ---
+
+### 참고 자료
+Cypress와 Puppeteer로 E2E 테스트하기
+https://lwb9036.tistory.com/26
+
+
