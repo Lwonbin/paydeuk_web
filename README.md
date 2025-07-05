@@ -53,7 +53,7 @@ JWT 기반 로그인 화면입니다.
 ---
 
 
-## 관련 작성 글
+## 📄관련 작성 글
 
 **Cypress와 Puppeteer로 E2E 테스트하기**  
 https://lwb9036.tistory.com/26
