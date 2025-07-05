@@ -1,52 +1,25 @@
-<details>
-<summary><h2>📎 Pull Request 만들기</h2></summary>
+랜딩 페이지
+![image](https://github.com/user-attachments/assets/eb51760e-0e5c-423f-b654-88de2fb766b5)
 
-> 🔧 **your_branch** 부분을 PR하려는 브랜치명으로 바꿔서 사용하세요!
 
-| 유형 | URL |
-|------|-----|
-| 🐞 Bug Fix | `https://github.com/tower-of-fisa/paydeuk_web/compare/your_branch?expand=1&template=bug_fix.md` |
-| ✨ Feature | `https://github.com/tower-of-fisa/paydeuk_web/compare/your_branch?expand=1&template=feature_addition.md` |
-| 📚 Docs | `https://github.com/tower-of-fisa/paydeuk_web/compare/your_branch?expand=1&template=docs_update.md` |
-| ⚙️ Setting | `https://github.com/tower-of-fisa/paydeuk_web/compare/your_branch?expand=1&template=setting_change.md` |
+포트원 본인인증
+![image](https://github.com/user-attachments/assets/183cd04c-ce78-497b-9a59-ef1f3011d75e)
 
-</details>
+회원가입 - 포트원 본인인증을통해 이름, 생년월일, 전화번호는 이미 적용되어있는 모습 
+![image](https://github.com/user-attachments/assets/cb4476f2-f5a9-466c-a7f7-ccd5d92b1efd)
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+로그인
+![image](https://github.com/user-attachments/assets/ea5f05b7-c39f-4de2-806a-a0eb21b8fa76)
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+메인페이지
+![image](https://github.com/user-attachments/assets/2086a7de-e272-4631-b6bc-b7727d3aaa7e)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+결제 모듈
+![image](https://github.com/user-attachments/assets/0addcfd9-6739-4556-b3ff-14dbafabfe58)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-
-# paydeuk_web
+관리자 페이지
+![image](https://github.com/user-attachments/assets/b8558302-ebec-4db7-a761-d8f36bbb6336)
